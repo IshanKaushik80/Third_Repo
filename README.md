@@ -1,3 +1,3 @@
 # Learning 
 
-Have to Learn Everything 
+To take the clone of this repo 
